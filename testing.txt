@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 1489-50B7
-
- Directory of C:\Users\nCodeIT\Desktop\MyProject1
-
-04-09-2018  19:45    <DIR>          .
-04-09-2018  19:45    <DIR>          ..
-04-09-2018  19:45                 0 testing.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  68,731,883,520 bytes free
+This is the testing a files
